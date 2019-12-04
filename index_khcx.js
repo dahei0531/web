@@ -3,7 +3,7 @@ define(function(require){
 	var Model = function(){
 		this.callParent();
 	};
-	//Yeal!!!!
+	//Yeal!!!! 2020!!!
 	Model.prototype.modelLoad = function(event){
 		window.system="XS";	//XS.JS.ALL
 	};	
